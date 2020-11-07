@@ -4,7 +4,7 @@ import org.jsoup.Connection.*;
 
 import java.io.*;
 
-
+//通过图片url下载图片
 public class JsoupConnectInputSream {
     public static void main(String[] args) {
         String imageUrl = "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604657963087&di=4b36155f5742b5cfb663b98ae7c4d6e9&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F8ae010762da6663b7f5b6a39b38f8aebc378a14e12afa-BiQbos_fw658";
